@@ -50,3 +50,29 @@ rsconnect/
 
 .DS_Store
 content/wednesday/prior_posterior_predictive_practical.RData
+
+# Pyhton environment
+.env/
+.venv/
+env/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyCharm
+.idea/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# Conda package caches
+pkgs/
+*.conda
+
+# Dataset
+popular2.sav
